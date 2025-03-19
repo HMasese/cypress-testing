@@ -36,7 +36,7 @@
 ## Installation
 1. Clone the Repo and Navigate to the directory
 ```
-git clone https://github.com/sidhuad/CypressTestingChallenge
+git@github.com:HMasese/cypress-testing.git
 cd directory_name
 ```
 
